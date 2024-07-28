@@ -10,3 +10,4 @@ keywords = [ "wordnet", "nlp", "dictionary" ]
 license = "BSD-2-Clause"
 
 [dependencies]
+anyhow = "1.0.79"
